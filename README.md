@@ -21,5 +21,5 @@ source virtEnv/bin/activate
 ```bash
 streamlit run streamlitapp.py
 ```
-
+##### Note: since pdf quality is not good , it is advised to clone this repo and run it in your local to have better understanding 
 ---
